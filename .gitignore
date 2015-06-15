@@ -1,0 +1,5 @@
+# Ignore haskell build files
+*.hi
+*.o
+ls/ls
+reverse/reverse
